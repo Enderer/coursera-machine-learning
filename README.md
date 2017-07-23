@@ -1,2 +1,3 @@
-# coursera-machine-learning
-Assignments for Coursera machine learning course
+# Coursera Machine Learning
+
+My assignments for the Coursera Machine Learning course
